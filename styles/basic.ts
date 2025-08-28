@@ -8,5 +8,11 @@ export const styles = StyleSheet.create({
     },
     mt20: {
         marginTop: 20
+    },
+    title: {
+        fontSize: 20,
+        fontWeight: "bold",
+        marginBottom: 20,
+        textAlign: "center"
     }
 })
